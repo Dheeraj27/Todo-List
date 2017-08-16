@@ -1,0 +1,341 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"reset"
+			],
+			[
+				"res",
+				"reset"
+			],
+			[
+				"gen",
+				"generateRandomColors"
+			],
+			[
+				"colo",
+				"colors"
+			],
+			[
+				"mode",
+				"modeButtons"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"num",
+				"numSquares"
+			],
+			[
+				"pcik",
+				"pickedColor"
+			],
+			[
+				"pick",
+				"pickColor"
+			],
+			[
+				"click",
+				"click"
+			],
+			[
+				"reset",
+				"resetButton"
+			],
+			[
+				"ra",
+				"randomColor"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"chan",
+				"changeColors"
+			],
+			[
+				"col",
+				"colors"
+			],
+			[
+				"mess",
+				"messageDisplay"
+			],
+			[
+				"color",
+				"colorDisplay"
+			],
+			[
+				"squa",
+				"squares"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"winn",
+				"winningScore"
+			],
+			[
+				"w",
+				"winningScore"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"p2",
+				"p2score"
+			],
+			[
+				"p1",
+				"p1Button"
+			],
+			[
+				"get",
+				"getElementsByTagName"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"s",
+				"solid"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"th",
+				"thead\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 188.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/dheeraj/Desktop/Web/Todo list /index.html",
+		"/home/dheeraj/Desktop/Web/jQuerydemo.html",
+		"/home/dheeraj/Desktop/Web/ColorGame/colorGame.html",
+		"/home/dheeraj/Desktop/Web/ColorGame/colorGame.css",
+		"/home/dheeraj/Desktop/Web/ColorGame/colorGame.js",
+		"/home/dheeraj/Desktop/Web/score.html",
+		"/home/dheeraj/Desktop/Web/score.js",
+		"/home/dheeraj/Desktop/Web/score.css",
+		"/home/dheeraj/Desktop/Web/color.js",
+		"/home/dheeraj/Desktop/Web/colorchange.html",
+		"/home/dheeraj/Desktop/Web/movie.js",
+		"/home/dheeraj/Desktop/Web/movieDB.html",
+		"/home/dheeraj/Desktop/Web/Purrfect Match/index.html",
+		"/home/dheeraj/Desktop/Web/Purrfect Match/app.css",
+		"/home/dheeraj/.cache/.fr-Cbr3On/PurrfectMatch/app.css",
+		"/home/dheeraj/Desktop/Web/imagelinksgallery.txt",
+		"/home/dheeraj/Desktop/Web/gallery.css",
+		"/home/dheeraj/Desktop/Web/bootstrap_Img_Gallery.html",
+		"/home/dheeraj/Desktop/Web/blog.html",
+		"/home/dheeraj/Desktop/Web/blog.css",
+		"/home/dheeraj/.cache/.fr-s5DATV/bootstrap-3.3.7-dist/css/bootstrap.css",
+		"/home/dheeraj/Desktop/Web/07_ImageBlog1/imageLinks.html",
+		"/home/dheeraj/Desktop/Web/photogrid.html",
+		"/home/dheeraj/Desktop/Web/12_Blog_Solution/blog.html",
+		"/home/dheeraj/Desktop/Web/photos.css",
+		"/home/dheeraj/Desktop/Web/12_Blog_Solution/blog.css",
+		"/home/dheeraj/Desktop/Web/TicTacToe.html",
+		"/home/dheeraj/Desktop/Web/ttt.css",
+		"/home/dheeraj/Desktop/Web/selectors.css",
+		"/home/dheeraj/Desktop/Web/selectorsExercise.html",
+		"/home/dheeraj/.cache/.fr-TdgbOk/09_Selector_Exercise_Starter/selectors.css",
+		"/home/dheeraj/.cache/.fr-VeHLqF/09_Selector_Exercise_Starter/selectorsExercise.html",
+		"/home/dheeraj/Desktop/Web/pokemon.html",
+		"/home/dheeraj/Desktop/test.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"reset",
+			"\");\n",
+			"col-lg-4"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
